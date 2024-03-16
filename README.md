@@ -1,6 +1,6 @@
-Hi👋, I'm Suresh Goud
+                                   Hi👋, I'm Suresh Goud
 
-Passionate Data Scientist | Exploring the World of Data
+                 Passionate Data Scientist | Exploring the World of Data
 
 I'm skilled in Excel, Artificial Intelligence, SQL, Python & Machine learning
 
